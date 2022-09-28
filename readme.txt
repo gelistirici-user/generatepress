@@ -1,6 +1,7 @@
 === GeneratePress ===
 Contributors: edge22
 Donate link: https://generatepress.com/ongoing-development/
+Turkish Source: https://karadut.net/generatepress-temasi-guzellestirme/
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Tags: two-columns, three-columns, one-column, right-sidebar, left-sidebar, footer-widgets, blog, e-commerce, flexible-header, full-width-template, buddypress, custom-header, custom-background, custom-menu, custom-colors, sticky-post, threaded-comments, translation-ready, rtl-language-support, featured-images, theme-options
